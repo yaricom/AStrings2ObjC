@@ -22,3 +22,14 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+# IDEA specific
+/.idea/workspace.xml
+/.idea/libraries
+
+# MacOS specific
+.DS_Store
+
+# Project specific
+strings.xml
+*.strings
